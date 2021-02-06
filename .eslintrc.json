@@ -53,5 +53,8 @@
     "sourceType": "module"
   },
   "plugins": ["prettier"],
-  "settings": { "import/resolver": "webpack" }
+  "settings": { "import/resolver": "webpack" },
+  
+  
+  "import/prefer-default-export": "off"
 }
